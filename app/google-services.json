@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "542601236182",
+    "project_id": "videocall-17b37",
+    "storage_bucket": "videocall-17b37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542601236182:android:ac3ce0480c96a5bbedc377",
+        "android_client_info": {
+          "package_name": "com.videocall.datingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542601236182-u9lb4hp2at36svotise2ldnpe1bopq7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.videocall.datingapp",
+            "certificate_hash": "fb3c5745dbb394d6e87fc61fc65b4384ec8a5a5a"
+          }
+        },
+        {
+          "client_id": "542601236182-o4htal3lfb9h3c1pv65hamo86gcu873a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmEVm3VeCajK_1bm72oI8gwRSdlBBBDhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542601236182-o4htal3lfb9h3c1pv65hamo86gcu873a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

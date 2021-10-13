@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/calling_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp">
+
+        <LinearLayout
+            android:id="@+id/calling_notify"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
+
+
+            <TextView
+                android:id="@+id/calling_status"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Calling..."
+                android:textColor="@color/colorPrimary"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/calling_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                tools:text="Mrx"
+                android:textColor="@color/colorPrimary"
+                android:textSize="35sp" />
+        </LinearLayout>
+
+
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:background="@android:color/darker_gray"
+            android:padding="0dip"
+            android:layout_weight="3"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:visibility="visible"
+            android:src="@mipmap/ic_launcher"
+            android:layout_gravity="center"
+            android:contentDescription="Call background">
+        </ImageView>
+
+
+
+        <LinearLayout
+            android:id="@+id/calling_action_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:layout_margin="20dp"
+            android:weightSum="2"
+            android:layout_alignParentBottom="true">
+
+            <Button
+                android:id="@+id/calling_answer"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginRight="100dp"
+                android:background="@drawable/receive_call"
+                android:textColor="#fff" />
+
+            <Button
+                android:id="@+id/calling_reject"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:background="@drawable/disconnect_call_icon"
+                android:textColor="#fff" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <FrameLayout
+        android:id="@+id/calling_blackscreen"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#000"
+        android:clickable="true"
+        android:focusable="true"
+        android:visibility="gone" />
+</RelativeLayout>

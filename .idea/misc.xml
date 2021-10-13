@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/curve.xml" value="0.371875" />
+        <entry key="app/src/main/res/layout/account_activity.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/accounts_activity.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/activity_call_list.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/callscreen.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/chats_fragment.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/chats_item.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/dialog_input.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/dialog_seekbar.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/dialog_seekbars.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/email_activity.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/favorites_fragment.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/favorites_item.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/feeds_fragment.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/incoming.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/list_item.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/login_activity.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/premium_activity.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/profile_activity.xml" value="0.28916172734970363" />
+        <entry key="app/src/main/res/layout/profile_details.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/profile_edit_images.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/profile_fragment.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/profile_images.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/register_activity.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/remind_activity.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/report_activity.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/settings_activity.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/start_activity.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/support_activity.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/swipe_fragment.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/swipe_item.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/users_fragment.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/users_item.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/visitors_fragment.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/visitors_item.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.362962962962963" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.362962962962963" />
+      </map>
+    </option>
+  </component>
+  <component name="Kotlin2JsCompilerArguments">
+    <option name="sourceMapEmbedSources" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
+</project>
